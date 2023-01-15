@@ -1,0 +1,14 @@
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GlaxyAvengers\bin\Debug\GlaxyAvengers.exe.config
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GlaxyAvengers\bin\Debug\GlaxyAvengers.exe
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GlaxyAvengers\bin\Debug\GlaxyAvengers.pdb
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GlaxyAvengers\bin\Debug\GameFramework.dll
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GlaxyAvengers\bin\Debug\GameFramework.pdb
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GlaxyAvengers\obj\Debug\GlaxyAvengers.csproj.AssemblyReference.cache
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GlaxyAvengers\obj\Debug\GlaxyAvengers.csproj.SuggestedBindingRedirects.cache
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GlaxyAvengers\obj\Debug\GlaxyAvengers.Form1.resources
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GlaxyAvengers\obj\Debug\GlaxyAvengers.Properties.Resources.resources
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GlaxyAvengers\obj\Debug\GlaxyAvengers.csproj.GenerateResource.cache
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GlaxyAvengers\obj\Debug\GlaxyAvengers.csproj.CoreCompileInputs.cache
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GlaxyAvengers\obj\Debug\GlaxyAvengers.csproj.CopyComplete
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GlaxyAvengers\obj\Debug\GlaxyAvengers.exe
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GlaxyAvengers\obj\Debug\GlaxyAvengers.pdb

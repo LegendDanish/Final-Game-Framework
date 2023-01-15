@@ -1,0 +1,32 @@
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\bin\Debug\GardiensOfGlaxy.exe.config
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\bin\Debug\GardiensOfGlaxy.exe
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\bin\Debug\GardiensOfGlaxy.pdb
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\bin\Debug\GameFramework.dll
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\bin\Debug\GameFramework.pdb
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\obj\Debug\GardiensOfGlaxy.csproj.AssemblyReference.cache
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\obj\Debug\GardiensOfGlaxy.csproj.SuggestedBindingRedirects.cache
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\obj\Debug\GardiensOfGlaxy.GameForm.resources
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\obj\Debug\GardiensOfGlaxy.Properties.Resources.resources
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\obj\Debug\GardiensOfGlaxy.csproj.GenerateResource.cache
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\obj\Debug\GardiensOfGlaxy.csproj.CoreCompileInputs.cache
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\obj\Debug\GardiensOfGlaxy.csproj.CopyComplete
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\obj\Debug\GardiensOfGlaxy.exe
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\obj\Debug\GardiensOfGlaxy.pdb
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\bin\Debug\Guna.UI2.dll
+D:\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\obj\Debug\GardiensOfGlaxy.Form2.resources
+E:\Bs Computer Science ( UET)\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\bin\Debug\GardiensOfGlaxy.exe.config
+E:\Bs Computer Science ( UET)\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\bin\Debug\GardiensOfGlaxy.exe
+E:\Bs Computer Science ( UET)\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\bin\Debug\GardiensOfGlaxy.pdb
+E:\Bs Computer Science ( UET)\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\bin\Debug\GameFramework.dll
+E:\Bs Computer Science ( UET)\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\bin\Debug\Guna.UI2.dll
+E:\Bs Computer Science ( UET)\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\bin\Debug\GameFramework.pdb
+E:\Bs Computer Science ( UET)\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\obj\Debug\GardiensOfGlaxy.csproj.AssemblyReference.cache
+E:\Bs Computer Science ( UET)\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\obj\Debug\GardiensOfGlaxy.csproj.SuggestedBindingRedirects.cache
+E:\Bs Computer Science ( UET)\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\obj\Debug\GardiensOfGlaxy.GameForm.resources
+E:\Bs Computer Science ( UET)\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\obj\Debug\GardiensOfGlaxy.Form2.resources
+E:\Bs Computer Science ( UET)\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\obj\Debug\GardiensOfGlaxy.Properties.Resources.resources
+E:\Bs Computer Science ( UET)\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\obj\Debug\GardiensOfGlaxy.csproj.GenerateResource.cache
+E:\Bs Computer Science ( UET)\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\obj\Debug\GardiensOfGlaxy.csproj.CoreCompileInputs.cache
+E:\Bs Computer Science ( UET)\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\obj\Debug\GardiensOfGlaxy.csproj.CopyComplete
+E:\Bs Computer Science ( UET)\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\obj\Debug\GardiensOfGlaxy.exe
+E:\Bs Computer Science ( UET)\2nd Semester Record\OOP Labs\Final Game Framework\GameDevelopmentFramework\GardiensOfGlaxy\obj\Debug\GardiensOfGlaxy.pdb
